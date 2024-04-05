@@ -15,23 +15,20 @@ O Git é uma ferramenta que ajuda equipes a gerenciar alterações em código fo
 ### Quais são os seus comandos? 
 
 * **mkdir nome-da-pasta** - cria uma pasta/diretório.
-* **cd~** - volta para a raiz
-* **cd ..** - volta uma pasta
-* **cd nome-da-pasta** - entra na pasta
-* **touch nome-do-arquivo** - cria um arquivo
-* **rm nome-do-arquivo** -  remove um arquivo
-* **git init** - inicia um repositório git oculto na pasta criada
-* **git status** - Ajuda a ver os estágios dos arquivos, para ver quais arquivos foram criados e ou modificados
-* **code .** - abre o visual studio code na pasta local
-* **git add .** - para adicionar todos os arquivos que estão na sua pasta de uma vez, caso queria adicionar
-  apenas um arquivo digite git add nome-do-arquivo
-* **git commit –m “coloque sua mensagem aqui”** - é usado para confirmar as alterações na cabeça da
-aplicação
-* **git push origin master** - envia as alterações feitas para a branch mestre do repositório
+* **cd~** - volta para a raiz.
+* **cd ..** - volta uma pasta.
+* **cd nome-da-pasta** - entra na pasta.
+* **code .** - abre o visual studio code na pasta local.
+* **clear** - limpa a tela.
 
 ## Github 
 
 ### O que é? 
+
+GitHub é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git.
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdLzNyARN6nxhLH4zbdtB2sdrKajUgA9fs3__BhABwDA&s)
+
 
 
 
