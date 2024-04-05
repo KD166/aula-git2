@@ -1,1 +1,38 @@
+# Pesquisa sobre git, github e vscode. 
+
+## Git
+
+### O que é? 
+
+O Git é um dos sistemas de controle de versão, usado frequentemente no mundo de desenvolvimento de software. Ele é um software gratuito e é um projeto de código aberto desenvolvido em 2005 por Linus Torvalds, o criador do kernel do Linux.
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS370oYnzzk2xsD56QsKENSrQEwZ8-jZIBTfPbqsYmNg&s)
+
+### Para que serve?
+
+O Git é uma ferramenta que ajuda equipes a gerenciar alterações em código fonte ao longo do tempo. Além disso, ele ajuda os times a trabalharem de forma mais rápida e inteligente e registra o histórico de edições de qualquer tipo de arquivo.
+
+### Quais são os seus comandos? 
+
+* **mkdir nome-da-pasta** - cria uma pasta/diretório.
+* **cd~** - volta para a raiz
+* **cd ..** - volta uma pasta
+* **cd nome-da-pasta** - entra na pasta
+* **touch nome-do-arquivo** - cria um arquivo
+* **rm nome-do-arquivo** -  remove um arquivo
+* **git init** - inicia um repositório git oculto na pasta criada
+* **git status** - Ajuda a ver os estágios dos arquivos, para ver quais arquivos foram criados e ou modificados
+* **code .** - abre o visual studio code na pasta local
+* **git add .** - para adicionar todos os arquivos que estão na sua pasta de uma vez, caso queria adicionar
+  apenas um arquivo digite git add nome-do-arquivo
+* **git commit –m “coloque sua mensagem aqui”** - é usado para confirmar as alterações na cabeça da
+aplicação
+* **git push origin master** - envia as alterações feitas para a branch mestre do repositório
+
+## Github 
+
+### O que é? 
+
+
+
 
