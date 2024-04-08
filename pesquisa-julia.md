@@ -31,7 +31,6 @@ GitHub é uma plataforma de hospedagem de código-fonte com controle de versão 
 
 ### Para que serve?
 
-O Git é uma ferramenta que ajuda equipes a gerenciar alterações em código fonte ao longo do tempo. Além disso, ele ajuda os times a trabalharem de forma mais rápida e inteligente e registra o histórico de edições de qualquer tipo de arquivo.
 
 
 
